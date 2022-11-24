@@ -34,7 +34,5 @@ Users should be able to:
 -    Responsiveness
 
 ## Author
-
--    Website - [Add your name here](https://www.your-site.com)
--    Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--    Twitter - [@yourusername](https://www.twitter.com/JimohAbdulsam1)
+-    Frontend Mentor - [@buk-ola01](https://www.frontendmentor.io/profile/buk-ola01)
+-    Twitter - [@JimohAbdulsam1](https://www.twitter.com/JimohAbdulsam1)
