@@ -4,9 +4,9 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Table of contents
 
--    [Overview](#overview)
-     -    [Social Proof Section](#the-challenge)
--    [My process](#my-process)
+-    Overview
+     -    Social Proof Section
+-    My process
      -    Built with HTML and CSS
      -    Worked on responsiveness
      -    Author- Abdulsamad Jimoh
@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
--    Solution URL: [Add solution URL here](https://your-solution-url.com)
--    Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-    Solution URL: [Here](https://github.com/buk-ola01/Social-Proof-Section)
+-    Live Site URL: [Here](https://buk-ola01.github.io/Social-Proof-Section/)
 
 ## My process
 
